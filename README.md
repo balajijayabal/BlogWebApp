@@ -1,27 +1,35 @@
 # BlogWebApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
+It's a basic web application which doesn't have front end validation.
+It captures error from the backend service and shows some relevant error.
 
-## Development server
+## Install project dependencies
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run 'npm install' from the project base folder to intall the project dependencies. 
 
-## Code scaffolding
+## Start application
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `ng serve` to start dev server. Navigate to `http://localhost:4200/`. 
 
-## Build
+Home screen:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![image](https://user-images.githubusercontent.com/37226852/143924632-f3bc3fd1-b3b9-4db9-90f3-9c361d6891a5.png)
 
-## Running unit tests
+Add post screen:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![image](https://user-images.githubusercontent.com/37226852/143924844-0c2bbb86-a32b-44f5-80ef-2c2a7aa2641a.png)
 
-## Running end-to-end tests
+Post list screen:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![image](https://user-images.githubusercontent.com/37226852/143925344-d3864a08-1451-438d-a7b0-8dcc44821aab.png)
 
-## Further help
+Edit post screen:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://user-images.githubusercontent.com/37226852/143925008-eadfe09f-277b-4b62-b9dc-1b40786c035d.png)
+
+Update/Delete post screen:
+
+![image](https://user-images.githubusercontent.com/37226852/143925126-c12d35ba-9549-4b5f-858e-b7404d7fb02d.png)
+
+
